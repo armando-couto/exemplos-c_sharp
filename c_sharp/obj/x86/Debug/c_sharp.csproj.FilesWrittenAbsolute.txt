@@ -1,0 +1,5 @@
+/Users/armandocouto/workspace/exemplos-c_sharp/c_sharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/armandocouto/workspace/exemplos-c_sharp/c_sharp/bin/Debug/c_sharp.exe.mdb
+/Users/armandocouto/workspace/exemplos-c_sharp/c_sharp/bin/Debug/c_sharp.exe
+/Users/armandocouto/workspace/exemplos-c_sharp/c_sharp/obj/x86/Debug/c_sharp.exe
+/Users/armandocouto/workspace/exemplos-c_sharp/c_sharp/obj/x86/Debug/c_sharp.exe.mdb
